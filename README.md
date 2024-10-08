@@ -94,8 +94,8 @@ Here are the key game interface screens with corresponding screenshots:
 -   Clone this repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/CharylLi/human_stress_test.git
+    cd human_stress_test
     ```
 
 -   Install dependencies:
@@ -108,11 +108,10 @@ Here are the key game interface screens with corresponding screenshots:
 
 ### Running the Application
 
-To run the app on your local device or emulator:
-
-```bash
-flutter run
-```
+-   To run the app on your local device or emulator:
+    ```bash
+    flutter run
+    ```
 
 Ensure you have an emulator running or a physical device connected.
 
